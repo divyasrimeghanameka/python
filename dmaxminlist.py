@@ -8,3 +8,6 @@ a=max(l)
 b=min(l)
 print("maximum number=",a)
 print("minimum number=",b)
+print("pos of max ele=",l.index(a))
+print("pos of min ele=",l.index(b))
+
